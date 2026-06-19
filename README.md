@@ -12,7 +12,7 @@ A Machine Learning-based Network Intrusion Detection System using the NSL-KDD da
 
 ## Live Demo
 
-[Streamlit App Link Here]
+Web page link: [(https://nids-app-project-jxvkdstzydxjicyairqgqf.streamlit.app/)]
 
 ## Technologies Used
 
